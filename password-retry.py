@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 password = 'a123456'
 i = 3 # 剩餘機會
 while i > 0:
